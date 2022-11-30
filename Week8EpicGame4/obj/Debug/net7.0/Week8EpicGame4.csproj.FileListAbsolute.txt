@@ -1,0 +1,15 @@
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/bin/Debug/net7.0/Week8EpicGame4
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/bin/Debug/net7.0/Week8EpicGame4.deps.json
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/bin/Debug/net7.0/Week8EpicGame4.runtimeconfig.json
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/bin/Debug/net7.0/Week8EpicGame4.dll
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/bin/Debug/net7.0/Week8EpicGame4.pdb
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/obj/Debug/net7.0/Week8EpicGame4.csproj.AssemblyReference.cache
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/obj/Debug/net7.0/Week8EpicGame4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/obj/Debug/net7.0/Week8EpicGame4.AssemblyInfoInputs.cache
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/obj/Debug/net7.0/Week8EpicGame4.AssemblyInfo.cs
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/obj/Debug/net7.0/Week8EpicGame4.csproj.CoreCompileInputs.cache
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/obj/Debug/net7.0/Week8EpicGame4.dll
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/obj/Debug/net7.0/refint/Week8EpicGame4.dll
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/obj/Debug/net7.0/Week8EpicGame4.pdb
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/obj/Debug/net7.0/Week8EpicGame4.genruntimeconfig.cache
+/Users/katarina/Projects/Week8EpicGame4/Week8EpicGame4/obj/Debug/net7.0/ref/Week8EpicGame4.dll
